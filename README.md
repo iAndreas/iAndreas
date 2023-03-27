@@ -1,6 +1,6 @@
-## Salve salve família 😎
+## André Gonçalves
 
-### Gráficos daoras
+### Gráficos de Contribuição
  <div>
   <a href="https://github.com/iAndreas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iAndreas&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
@@ -15,7 +15,8 @@
  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+  <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+ </div>
   
 ### Se quiser entrar em contato
  
